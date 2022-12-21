@@ -2,6 +2,4 @@
 
 - 🌱 I’m currently learning HTML, CSS, BASIC PYTHON, PHP AND JS SKILLS
 - 📫 How to reach me: +57 3145018334
-- ⚡ Fun fact: I hate sand
-- ❤️ duke and mateo
 <!--
