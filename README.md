@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning HTML, CSS, BASIC PYTHON AND JS SKILLS
 - 📫 How to reach me: +57 3145018334
 - 🍼Junior developer🤷‍♂️
-- programming essentials teacher
 <!--
