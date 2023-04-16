@@ -1,10 +1,9 @@
-## print ('Hola Mundo :D'); echo "👋";\
-## print ('Hello world'); echo "👋";\
+## print ('Hello world, my name is Miguel'); echo "👋";\
 - 🌱 I’m currently learning new technologies through self-study
 - 📫 How to reach me: miancaza18004@gmail.com
 - 🍼JR Full Stack Developer with freelance experience in web development and databases.🤷‍♂️
 
-## Programming languages "🖥💻";\
+## Programming languages 🖥💻
 
 -  HTML5
 - CSS3
@@ -13,8 +12,12 @@
 - PHP + LARAVEL (LOW LEVEL)
 - C#
 
-## DATABASES "🖥💻";\
+## Databases 📟💾
 - MYSQL
 - MICROSOFT SQL SERVER
+
+## Languages
+- English (A2)
+- Spanish (native)
 <!--
 
