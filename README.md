@@ -5,16 +5,16 @@
 
 ## Programming languages 🖥💻
 
--  HTML5
-- CSS3
-- PYTHON
-- JAVASCRIPT
-- PHP + LARAVEL (LOW LEVEL)
-- C#
+-  HTML5🛠⛏(10/10) 
+- CSS3🎨🖌(7/5)
+- PYTHON🐍⚙(8/10)
+- JAVASCRIPT🕹🖱(6/10)
+- PHP + LARAVEL🖥💻(7/10)
+- C#🎮(5/10)
 
 ## Databases 📟💾
-- MYSQL
-- MICROSOFT SQL SERVER
+- MYSQL(9/10)
+- MICROSOFT SQL SERVER(6/10)
 
 ## Languages
 - English (A2)
