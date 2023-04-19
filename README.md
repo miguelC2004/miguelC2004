@@ -6,7 +6,7 @@
 ## Programming languages 🖥💻
 
 -  HTML5🛠⛏(10/10) 
-- CSS3🎨🖌(7/5)
+- CSS3🎨🖌(7/10)
 - PYTHON🐍⚙(8/10)
 - JAVASCRIPT🕹🖱(6/10)
 - PHP + LARAVEL🖥💻(7/10)
