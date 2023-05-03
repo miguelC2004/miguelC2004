@@ -10,7 +10,7 @@
 - PYTHON🐍⚙(8/10)
 - JAVASCRIPT🕹🖱(6/10)
 - PHP + LARAVEL🖥💻(7/10)
-- C#🎮(5/10)
+- C#🎮(7/10)
 
 ## Databases 📟💾
 - MYSQL(9/10)
