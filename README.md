@@ -4,9 +4,6 @@
 - 🍼JR Backend Developer with freelance experience in web development and databases.🤷‍♂️
 
 ## Programming languages 🖥💻
-
--  HTML5🛠⛏(10/10) 
-- CSS3🎨🖌(7/10)
 - PYTHON🐍⚙(8/10)
 - JAVASCRIPT🕹🖱(6/10)
 - PHP + LARAVEL🖥💻(7/10)
@@ -15,6 +12,10 @@
 ## Databases 📟💾
 - MYSQL(9/10)
 - MICROSOFT SQL SERVER(6/10)
+
+## Other tecnologies
+- AWS 🅰️☁️ (7/10)
+- GIT (6/10)
 
 ## Languages
 - English (A2)
