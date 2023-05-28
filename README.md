@@ -14,8 +14,8 @@
 - MICROSOFT SQL SERVER(6/10)
 
 ## Other tecnologies
-- AWS 🅰️☁️ (7/10)
-- GIT (6/10)
+- AWS🅰️☁️ (7/10)
+- GIT📋✅ (6/10)
 
 ## Languages
 - English (A2)
