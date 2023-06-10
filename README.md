@@ -16,6 +16,7 @@
 ## Other tecnologies
 - AWS🅰️☁️ (7/10)
 - GIT📋✅ (6/10)
+- DOCKER 🐳🐋 (5/10)
 
 ## Languages
 - English (A2)
