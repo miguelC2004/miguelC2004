@@ -12,6 +12,7 @@
 ## Databases 📟💾
 - MYSQL(9/10)
 - MICROSOFT SQL SERVER(6/10)
+- PostgreSQL (7/10)
 
 ## Other tecnologies
 - AWS🅰️☁️ (7/10)
