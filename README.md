@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a software and game developer with a passion f
 
 ### My Skills on:
 
-### Backend 🖥💻
-- ![Python]([https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png))
+### Backend Development 🖥💻
+- ![Python] (https://www.feuga.es/wp-content/uploads/2023/01/python-curso-1024x576.jpg)
 - PHP + Laravel 🖥💻 (7/10)
 - C# 🎮 (5/10)
 
