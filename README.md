@@ -1,7 +1,4 @@
-# Hi there, I'm Miguel Catano! 👋
-## Software and Game Developer 👨‍💻
-
-Welcome to my GitHub profile! I'm a software and game developer with a passion for creating innovative solutions. I have experience in backend development, web development, and databases. I'm constantly learning new technologies through self-study.
+## Hi there, I'm Miguel Catano, a Software and Game Developer 👨‍💻 working since 2022 🚀
 
 ### Programming Languages 🖥💻
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
