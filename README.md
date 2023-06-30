@@ -5,7 +5,7 @@
 - 🍼JR Backend Developer with freelance experience in web development and databases.🤷‍♂️
 
 
-### Programming Languages 
+## Programming Languages 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
     - ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
     - ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
@@ -18,17 +18,17 @@
 
 
 
-### Databases
+## Databases
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 - ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white) 
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) 
 
-### Other Technologies
+## Other Technologies
 - ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) 
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
 
-### Languages
+## Languages
 - English (A2)
 - Spanish (native)
 
