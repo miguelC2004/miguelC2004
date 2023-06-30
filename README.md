@@ -1,7 +1,5 @@
 ## Hi there, I'm Miguel Catano, a Software and Game Developer 👨‍💻 working since 2022 🚀
 
-### MY SKILLS:
-
 ### Programming Languages 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
     - ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
