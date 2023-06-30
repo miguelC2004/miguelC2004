@@ -1,5 +1,10 @@
 ## Hi there, I'm Miguel Catano, a Software and Game Developer 👨‍💻 working since 2022 🚀
 
+- 🌱 I’m currently learning new technologies through self-study
+- 📫 How to reach me: miancaza18004@gmail.com
+- 🍼JR Backend Developer with freelance experience in web development and databases.🤷‍♂️
+
+
 ### Programming Languages 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
     - ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
