@@ -1,4 +1,5 @@
-## Hi there, I'm Miguel Catano, a Software and Game Developer 👨‍💻 working since 2022 🚀
+## Hi there, I'm Miguel Catano, 
+## a Software and Game Developer 👨‍💻 working since 2022 🚀
 
 - 🌱 I’m currently learning new technologies through self-study
 - 📫 How to reach me: miancaza18004@gmail.com
