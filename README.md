@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelc2004&label=Profile%20views&color=0e75b6&style=flat" alt="miguelc2004" /> </p>
 
-- 🔭 I’m currently working on [an API for a trading platform in](https://bkbd.io/)
+- 🔭 I’m currently working on [an API for a trading platform in Blackbird Technologies](https://bkbd.io/)
 
 - 🌱 I’m currently learning **C# and .NET frameworks**
 
