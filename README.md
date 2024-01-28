@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [an API for a trading platform in](https://bkbd.io/)
 
-- 🌱 I’m currently learning **C# and .NET frameworks**
+- 🌱 I’m currently learning: **C# and .NET frameworks**
 
-- 💬 Ask me about **Object Oriented Programming, data science and Backend development**
+- 💬 Ask me about: **Object Oriented Programming, data science and Backend development**
 
-- 📫 How to reach me **miancaza18004@gmail.com**
+- 📫 How to reach me: **miancaza18004@gmail.com**
 
-- ⚡ Fun fact **When I was 16, I tried to make a game based on a book of short stories I wrote in school during philosophy class (which I hated), using Ren'Py. Unfortunately, I failed because I didn't have the designs. It was difficult without the visual elements.**
+- ⚡ Fun fact: **When I was 16, I tried to make a game based on a book of short stories I wrote in school during philosophy class (which I hated), using Ren'Py. Unfortunately, I failed because I didn't have the designs. It was difficult without the visual elements.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
