@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Miguel Catano</h1>
 <h3 align="center">I'm a Backend Developer and Junior Data Analyst. I enjoy building web apps and working with data. I've done freelance work and have some professional experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelc2004&label=Profile%20views&color=0e75b6&style=flat" alt="miguelc2004" /> </p>
