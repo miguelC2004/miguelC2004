@@ -1,16 +1,4 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelc2004&label=Profile%20views&color=0e75b6&style=flat" alt="miguelc2004" /> </p>
-
-- 🔭 I’m currently working on CONCEPTBPO [With data analytics](https://conceptbpo.com.co/nosotros)
-
-- 🌱 I’m currently learning **Data Science and AI technologies**
-
-- 💬 Ask me about **Object Oriented Programming, data science and Backend development**
-
-- 📫 How to reach me **miancaza18004@gmail.com**
-
-- ⚡ Fun fact **When I was 16, I tried to make a game based on a book of short stories I wrote in school during philosophy class (which I hated), using Ren'Py. Unfortunately, I failed because I didn't have the designs. It was difficult without the visual elements.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/miguel-catano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/miguel-catano/" height="30" width="40" /></a>
