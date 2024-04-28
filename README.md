@@ -18,7 +18,11 @@
 
  # In The Data World
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelc2004&show_icons=true&locale=en&layout=compact" alt="miguelc2004" /></p <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelc2004&show_icons=true&locale=en" alt="miguelc2004" /></p>
 
 # Hardware
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+<br>
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelc2004&show_icons=true&locale=en&layout=compact" alt="miguelc2004" /></p <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelc2004&show_icons=true&locale=en" alt="miguelc2004" /></p>
