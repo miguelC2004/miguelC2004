@@ -1,4 +1,4 @@
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/miguel-catano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/miguel-catano/" height="30" width="40" /></a>
@@ -48,12 +48,6 @@
 </td></tr></table>  
 
 <br/>  
-
-
-# Hardware
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-<br>
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelc2004&show_icons=true&locale=en&layout=compact" alt="miguelc2004" /></p <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelc2004&show_icons=true&locale=en" alt="miguelc2004" /></p>
