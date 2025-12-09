@@ -9,9 +9,7 @@
 
 ## My Skill Set
 
-<table>
-<tr>
-<td valign="top" width="33%">
+
 <center>
 
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank">
@@ -63,16 +61,3 @@
 </a>
 
 </center>
-</td>
-</tr>
-</table>
-
-<br>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelc2004&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelc2004&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
