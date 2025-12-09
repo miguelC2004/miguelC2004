@@ -4,8 +4,6 @@
   Professional in data analysis and business intelligence. I work with Power BI, SQL and Python to design reports, automate processes, and integrate information from multiple sources. I focus on creating dashboards and models that support decision-making with clear, reliable, and actionable insights.
 </p>
 
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/miguel-cata%C3%B1o-5aa069286/" target="_blank">
