@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Miguel Cataño</h1>
+<h1 align="left">Hi, I'm Miguel</h1>
 
 <p align="left">
   Professional in data analysis and business intelligence. I work with Power BI, SQL and Python to design reports, automate processes, and integrate information from multiple sources. I focus on creating dashboards and models that support decision-making with clear, reliable, and actionable insights.
@@ -71,24 +71,6 @@
 </a>
 
 </div>
-
-<br>
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelc2004&show_icons=true&layout=compact" height="150"/>
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelc2004&show_icons=true" height="150"/>
-</p>
-
-<br><br><br><br>
-
----
 
 ## 📌 Featured Projects
 
