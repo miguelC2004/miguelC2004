@@ -9,8 +9,7 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
- <div align="center">  
+<center>
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>
  <a href="https://adminfinance.umw.edu/tess/files/2013/06/Excel-Manual1.pdf" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Excel" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
@@ -23,10 +22,7 @@
 <a href="https://Docker.io/" target="_blank"><img style="margin: 10px" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" alt="Docker" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
+</center>
 <br/>  
 <br>
 
